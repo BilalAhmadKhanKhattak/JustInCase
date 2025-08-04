@@ -55,10 +55,10 @@ sudo apt install ffmpeg (Debian/Ubuntu)
 ```
 
 ## Things To Pay Attention
-Subtitle accuracy depends on audio quality, speaker clarity, background noise, and language.
-May mishear fast, slurred, or gibberish speech.
-Recommended for English and clean voiceovers.
-You can edit the .srt manually if needed (And sometimes you may need to correct them)
+- Subtitle accuracy depends on audio quality, speaker clarity, background noise, and language.
+- May mishear fast, slurred, or gibberish speech.
+- Recommended for English and clean voiceovers.
+- You can edit the .srt manually if needed (And sometimes you may need to correct them)
 
 
 # Note
