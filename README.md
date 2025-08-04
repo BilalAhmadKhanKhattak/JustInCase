@@ -16,7 +16,7 @@
 ---
 
 ## Screenshot
-[!image](https://github.com/BilalAhmadKhanKhattak/JustInCase/blob/main/ScreenshotJustInCase.png)
+(!image)[https://github.com/BilalAhmadKhanKhattak/JustInCase/blob/main/ScreenshotJustInCase.png]
 ## ⚙️ Requirements
 Download The Tool First:
 ```bash
