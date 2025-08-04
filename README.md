@@ -15,7 +15,17 @@
 
 ---
 
+## Screenshot
+[!image](
 ## ⚙️ Requirements
+Download The Tool First:
+```bash
+git clone https://github.com/BilalAhmadKhanKhattak/JustInCase
+```
+Open the folder:
+```bash
+cd JustInCase
+```
 
 Install dependencies:
 
@@ -27,6 +37,19 @@ Ensure ffmpeg is installed and available in system PATH.
 You can check by running:
 ```
 ffmpeg -version
+```
+
+If ffmpeg is not installed:
+Windows: Download FFmpeg and add it to your PATH.
+https://ffmpeg.org/download.html
+
+macOS: 
+```bash
+brew install ffmpeg
+```
+Linux: 
+```bash
+sudo apt install ffmpeg (Debian/Ubuntu)
 ```
 
 ## Things To Pay Attention
