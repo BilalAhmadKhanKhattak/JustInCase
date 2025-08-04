@@ -61,4 +61,8 @@ Recommended for English and clean voiceovers.
 You can edit the .srt manually if needed (And sometimes you may need to correct them)
 
 
+# Note
+Actually man... JustInCase can be called as one of the child programs of one of my biggest projects PHOENIX. So Obviously, Phoenix is my personal stuff, but I got the idea of subtitle generator, created, polished and launched it as a separate project, and this separate project is also used in Phoenix!
+
+
 > "Some mistakes are not mistakes." — *Mr. BILRED*
