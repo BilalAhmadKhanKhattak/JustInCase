@@ -1,4 +1,4 @@
-# 🎥 JustInCase (v2.0 GUI)
+# 🎥 JustInCase (v2 GUI)
 
 JustInCase is an **AI-powered captioning tool** that makes subtitles (.srt) for your Audio/Video. 
 This is **v2 – GUI Edition**, GUI built with PySide6. You "might" experience a smooth, simple, and distraction-free experience. 
