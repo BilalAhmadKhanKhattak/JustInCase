@@ -16,7 +16,7 @@
 ---
 
 ## Screenshot
-![image](https://github.com/BilalAhmadKhanKhattak/JustInCase/blob/tree/v1.1/ScreenshotJustInCase.png)
+![image](https://github.com/BilalAhmadKhanKhattak/JustInCase/blob/v1.1/ScreenshotJustInCase.png)
 
 
 ## ⚙️ Requirements
