@@ -16,7 +16,7 @@
 ---
 
 ## Screenshot
-![image](https://github.com/BilalAhmadKhanKhattak/JustInCase/blob/v1.1/ScreenshotJustInCase.png)
+![image](git clone --branch v1.1 --single-branch https://github.com/BilalAhmadKhanKhattak/JustInCase.git)
 
 
 ## ⚙️ Requirements
