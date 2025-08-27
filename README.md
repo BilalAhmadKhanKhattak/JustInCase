@@ -57,4 +57,4 @@ ffmpeg --version
 
 ## Words By Mr. BILRED
 Yeah, this was a part of PHOENIX. But I never knew I would get "this" much deeper in it. Actually (the thing about part of PHOENIX) the thing is, I tried to use Whisper in Phoenix for transcription purposes, then probably then I got the idea why not make a subtitle generator tool. Furthermore; I built this in my vacations, and this also took alot of time. What I also want you to understand is that is, uhm, there's a difference between "Making things work" and "Why things work". When you get to understand both, ah! then its something really ____. Nevertheless, I almost tried 12 times on macOS and 4 times on Windows OS, I was trying to do something, but that didnt happen. Eitherway, there might be some ALLAH's (God) wisdom. 
-And yeah, You should take an idea from this project that... I even got to know one of the PYTHON 3.10's OWN BUGS! That's something really special happened
+And yeah, You should take an idea from this project that... I even got to know one of the PYTHON 3.10's OWN BUG! That's something really special happened
