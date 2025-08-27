@@ -16,13 +16,13 @@
 ---
 
 ## Screenshot
-![image](https://github.com/BilalAhmadKhanKhattak/JustInCase/blob/main/ScreenshotJustInCase.png)
+![image](https://github.com/BilalAhmadKhanKhattak/JustInCase/blob/tree/v1.1/ScreenshotJustInCase.png)
 
 
 ## ⚙️ Requirements
 Download The Tool First:
 ```bash
-git clone https://github.com/BilalAhmadKhanKhattak/JustInCase
+git clone https://github.com/BilalAhmadKhanKhattak/JustInCase/tree/v1.1
 ```
 Open the folder:
 ```bash
