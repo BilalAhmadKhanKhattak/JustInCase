@@ -1,68 +1,60 @@
-# 🎧 JustInCase — Subtitle Generator
+# 🎥 JustInCase (v2.0 GUI)
 
-
-
-**JustInCase** is a tool that generates `.srt` subtitles from any given audio file — *just in case* you need them. Built using OpenAI's Whisper model, it's a way to caption voiceovers, dialogues, lectures, or any spoken content.
-
----
-
-## 🧠 What It Does
-
-- Transcribes audio to text using Whisper (`small` model).
-- Formats time into standard `.srt` style (HH:MM:SS,mmm).
-- Outputs an editable `.srt` file alongside your audio.
-- Friendly CLI interface with colored prompts for clarity.
+JustInCase is an **AI-powered captioning tool** that makes subtitles (.srt) for your Audio/Video. 
+This is **v2 – GUI Edition**, GUI built with PySide6. You "might" experience a smooth, simple, and distraction-free experience. 
+Version 2 is OPENSOURCE
 
 ---
 
-## Screenshot
-![image](https://github.com/BilalAhmadKhanKhattak/JustInCase/blob/main/ScreenshotJustInCase.png)
+## ✨ Features
+- ⚡ **AI-Powered** caption generation  
+- 🌍 **Multi-language support** (best results in English)  
+- 🔒 **No internet connection required** after setup — all processing is local  
+- ⏱️ Speed depends on **audio length** and your **computer’s performance**  
+- 🖼️ Clean, and simple GUI (This is what I think, btw)
 
+---
 
-## ⚙️ Requirements
-Download The Tool First:
+## V2 macOS version Screenshot
+
+![screenshot](https://github.com/BilalAhmadKhanKhattak/JustInCase/releases/download/v2/ScreenshotJustInCaseV2macOS.png)
+
+## ⚡ How to Download and Install 
+1. Python **3.10+** (I would recommend Python 3.10)
+2. Clone or download this repo.
 ```bash
 git clone https://github.com/BilalAhmadKhanKhattak/JustInCase
 ```
-Open the folder:
-```bash
-cd JustInCase
-```
+OR
 
-Install dependencies:
+You download the .zip file from [releases](https://github.com/BilalAhmadKhanKhattak/JustInCase/releases/tag/v2)
 
-```bash
-pip install -r requirements.txt
-```
+3. Install requirements:
+   ```bash
+   pip install -r requirements.txt
 
-Ensure ffmpeg is installed and available in system PATH.
-You can check by running:
-```
-ffmpeg -version
-```
-
-If ffmpeg is not installed:
-Windows: Download FFmpeg and add it to your PATH.
-https://ffmpeg.org/download.html
-
-macOS: 
+- Install ffmpeg
+ For macOS:
 ```bash
 brew install ffmpeg
 ```
-Linux: 
+
+For Windows:
+- [FFmpeg](https://ffmpeg.org/download.html) (must be installed & added to PATH)
+
+- To ensure ffmpeg is installed you may use
 ```bash
-sudo apt install ffmpeg (Debian/Ubuntu)
+ffmpeg --version
 ```
 
 ## Things To Pay Attention
+
 - Subtitle accuracy depends on audio quality, speaker clarity, background noise, and language.
+- Processing time depends on the Audio Length, and Computer Performance (but not only)
 - May mishear fast, slurred, or gibberish speech.
 - Recommended for English and clean voiceovers.
-- You can edit the .srt manually if needed (And sometimes you may need to correct them)
+- You can edit the .srt manually (separately, not in JustInCase) if needed (And sometimes you may need to correct them) 
 
-
-# Note
-Actually man... JustInCase can be called as one of the child programs of one of my biggest projects PHOENIX. So Obviously, Phoenix is my personal stuff, but I got the idea of subtitle generator, created, polished and launched it as a separate project, and this separate project is also used in Phoenix!
-
-
-> "Some mistakes are not mistakes." — *Mr. BILRED*
+## Words By Mr. BILRED
+Yeah, this was a part of PHOENIX. But I never knew I would get "this" much deeper in it. Actually (the thing about part of PHOENIX) the thing is, I tried to use Whisper in Phoenix for transcription purposes, then probably then I got the idea why not make a subtitle generator tool. Furthermore; I built this in my vacations, and this also took alot of time. What I also want you to understand is that is, uhm, there's a difference between "Making things work" and "Why things work". When you get to understand both, ah! then its something really ____. Nevertheless, I almost tried 12 times on macOS and 4 times on Windows OS, I was trying to do something, but that didnt happen. Eitherway, there might be some ALLAH's (God) wisdom. 
+And yeah, You should take an idea from this project that... I even got to know one of the PYTHON 3.10's OWN BUGS! That's something really special happened
